@@ -1,4 +1,4 @@
-# Hi, I'm Tejas More 👋
+# Hi, I'm Tejas More 
 
 ### MBA Student | Aspiring Business Analyst | Nashik, India
 
@@ -22,7 +22,7 @@ that help answer real business questions.
 | Project | What I did | Tools |
 |---|---|---|
 | [Sales Performance Analysis](https://github.com/moretejas2005-cmyk/Sales-Preformance-Analysis) | Analysed sales trends, seasonal patterns and top products; built an interactive dashboard | Excel, Power BI |
-| [Web Traffic Analysis](https://github.com/moretejas2005-cmyk/web-traffic-analysis) | Analysed visitor behaviour by source, device, country and landing page | Excel, Power BI |
+| [Web Traffic Analysis](https://github.com/moretejas2005-cmyk/web-traffic-analysis) | Analysed visitor behaviour by source, device, country and landing page | Google analytics, Excel, Power BI |
 | 
 ## 💼 Experience
 **Business Analytics Intern**, Codec Technologies (Oct–Nov 2026)
